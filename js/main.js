@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initFightBell();
   initSchedule();
 });
-...........
+..........
 /* Mobile Navigation Toggle */
 function initMobileNav() {
   const toggleBtn = document.getElementById('mobileToggle');
