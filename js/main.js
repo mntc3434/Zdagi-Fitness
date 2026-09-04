@@ -1,6 +1,6 @@
 /* 
   ZDAGA FITNESS CLUB - Modern Fight Gym Engine
-*/.........sdfa.dfa.as.fs.a.f
+*/.........sdfa.dfa.as.fs.a.
 document.addEventListener('DOMContentLoaded', () => {
   initMobileNav();
   initFightBell();
